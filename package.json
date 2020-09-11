@@ -1,7 +1,7 @@
 {
-  "name": "Delib-v3",
-  "version": "0.0.1",
-  "description": "Delib main module",
+  "name": "delib",
+  "version": "3.0.0",
+  "description": "Delib consensus model",
   "main": "index.js",
   "scripts": {
     "test": "test",
