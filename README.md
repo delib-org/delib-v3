@@ -27,6 +27,12 @@ To get your project's setting, go to the project settings->general, go to the se
   module.exports = configKey;
   ```
 
+## installing depndancins 
+At the root directory run `npm i`.
+At the "functions" directory run `npm i`
 
-Clone Delib into your local repositiory
-
+## Login to firbase 
+`firebase login`
+## running
+In the root directory run `npm run dev` and in another terminal run `firebase serve`.
+you will be able to see the app running on localhost:5000
